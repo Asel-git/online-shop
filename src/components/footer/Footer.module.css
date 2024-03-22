@@ -1,0 +1,18 @@
+.footer {
+  min-height: 157px;
+  background-image: url(src/assets/mask-group.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.footer_copyright {
+  padding: 65px 0 65px;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 27px;
+  text-transform: capitalize;
+  color: #ece6e6;
+  text-align: start;
+  font-weight: bold;
+}
